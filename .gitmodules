@@ -1,0 +1,3 @@
+[submodule "huskyos"]
+	path = huskyos
+	url = https://github.com/tromshusky/huskyos
