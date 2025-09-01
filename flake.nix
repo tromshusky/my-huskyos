@@ -1,5 +1,5 @@
 {
-  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-${builtins.readFile ./VSN}";
+  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
   outputs =
     { self, nixpkgs }:
     {
